@@ -1,6 +1,6 @@
 # MLP_CNN_RealFaces_Classification
 
-Welcome to MLP_CNN_RealFaces_Classification! This repository contains Python scripts demonstrating the implementation and usage of various machine learning algorithms. From ridge regression to decision trees, you'll find practical examples and explanations to understand how these algorithms work and how to use them in your projects.
+Welcome to MLP_CNN_RealFaces_Classification! This repository contains Python scripts demonstrating the implementation and usage of various machine learning algorithms. you'll find practical examples and explanations to understand how these algorithms work and how to use them in your projects.
 
 ## Overview
 
